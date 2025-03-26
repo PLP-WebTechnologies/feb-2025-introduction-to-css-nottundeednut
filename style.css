@@ -1,0 +1,47 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.headtopic {
+  text-transform: uppercase;
+  font-size: 24px;
+  color: chocolate;
+}
+
+#container {
+  background-color: bisque;
+  padding: 50px 100px;
+  text-align: center;
+}
+
+form {
+  text-align: center;
+  width: 450px;
+  background-color: beige;
+  border-radius: 5px;
+  padding: 20px;
+  margin-top: 30px;
+  border: 2px solid;
+  margin: auto;
+  margin-top: 40px;
+}
+form button {
+  width: 100px;
+  padding: 10px 15px;
+  border-radius: 4px;
+  background-color: bisque;
+}
+
+table {
+  background-color: beige;
+  border-radius: 5px;
+  margin: auto;
+}
+
+img {
+  width: 450px;
+  border-radius: 10px;
+}
+li {
+  list-style-type: none;
+}
